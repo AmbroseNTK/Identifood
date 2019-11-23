@@ -62,7 +62,7 @@ This app will track and analyse what people eat in every meals so that suggest t
 <p>
 This part will show you important models will be built in ML component for the app. These images and results are referenced from my 
 
-![previous project](https://github.com/AmbroseNTK/Food-Recognition-For-Blind-People-And-Foreigner/)
+[previous project](https://github.com/AmbroseNTK/Food-Recognition-For-Blind-People-And-Foreigner/)
 
 which I have done before
 
@@ -82,7 +82,6 @@ Pho-bo | Pho-ga
 
 The first photo is Pho-bo means Pho with beef. The second is Pho-ga means Pho with chicken. All of them is Pho, but they have different ingredient. Because of nutrition difference of beef and chicken, so Pho-bo and Pho-ga have different nutrition. So Ingredient Detection is an important step to solve this problem which is common in anothor food's culture.
 
-![FoodRecognition](https://github.com/AmbroseNTK/Food-Recognition-For-Blind-People-And-Foreigner/blob/master/img/ActivityDiagram.jpg)
 </p>
 
 <h2>
